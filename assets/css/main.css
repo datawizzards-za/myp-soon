@@ -504,24 +504,33 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 		width: 90%;
 	}
 
-		#header h1 {
-			font-size: 4.35em;
-			font-weight: 900;
-			letter-spacing: -0.035em;
-			line-height: 1em;
-                        color: #000;
-		}
+    #header h1 {
+            font-size: 4.35em;
+            font-weight: 900;
+            letter-spacing: -0.035em;
+            line-height: 1em;
+            color: #000;
+    }
 
-		#header p {
-			font-size: 2em;
-			margin: 0.75em 0 0.25em 0;
-                        color: #000;
-			font-weight: 500;
-		}
+    #header h2 {
+            font-size: 2.35em;
+            font-weight: 500;
+            letter-spacing: -0.035em;
+            line-height: 1em;
+            color: crimson;
+            font-style: italic;
+    }
 
-		#header nav {
-			margin: 1.5em 0 0 0;
-		}
+    #header p {
+            font-size: 2em;
+            margin: 0.75em 0 0.25em 0;
+            color: #000;
+            font-weight: 500;
+    }
+
+    #header nav {
+            margin: 1.5em 0 0 0;
+    }
 
 			#header nav li {
 				-moz-animation: nav-icons 0.5s ease-in-out forwards;
@@ -620,7 +629,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 				-webkit-touch-callout: none;
 				border: 0;
 				display: inline-block;
-                                color: #fff;
+                                color: #000;
 			}
 
 				#header nav a:before {
@@ -629,7 +638,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 					-ms-transition: all 0.2s ease-in-out;
 					transition: all 0.2s ease-in-out;
 					border-radius: 100%;
-					border: solid 1px #fff;
+					border: solid 1px #000;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
@@ -638,7 +647,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 					text-align: center;
 					top: 0;
 					width: 2.5em;
-                                        color: #fff;
+                                        color: #000;
 				}
 
 				#header nav a:hover {
@@ -657,7 +666,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 					#header nav a:active:before {
 						background-color: rgba(255, 255, 255, 0.35);
-						color: #fff;
+						color: #000;
 					}
 
 				#header nav a span {
