@@ -26,10 +26,9 @@
                     </h2>
                     <nav>
                         <ul>
-                            <li>
-                                <a target="_blank" href="https://twitter.com/myp1060" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                                <li><a target="_blank" href="https://www.facebook.com/MYP1060/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-                                <li><a target="_blank" href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+                            <li><a target="_blank" href="https://twitter.com/myp1060" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a target="_blank" href="https://www.facebook.com/MYP1060/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a target="_blank" href="https://www.instagram.com/myp1060/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
                                 <!-- <li><a target="_blank" href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li> -->
                         </ul>
                     </nav>
